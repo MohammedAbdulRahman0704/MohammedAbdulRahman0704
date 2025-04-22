@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced AI model tuning, cloud-native architecture, and full-stack application development.
 - 💞️ I’m looking to collaborate on innovative AI projects, cloud automation tools, and impactful open-source software.
 - 📫 How to reach me: rahman.a7@outlook.com | [LinkedIn](https://www.linkedin.com/in/abdul-profile-url/) | [GitHub](https://github.com/MohammedAbdulRahman0704)
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
