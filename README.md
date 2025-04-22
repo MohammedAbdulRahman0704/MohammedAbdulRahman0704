@@ -9,6 +9,12 @@
 
 ---
 
+## 🌐 Portfolio
+Visit my personal website:  
+- [Portfolio](https://famous-swan-0ebc70.netlify.app/)
+
+---
+
 ## Featured Projects
 
 - [Plagiarism Detection System](https://github.com/MohammedAbdulRahman0704/Doc-Verify-Using-Machin-Learning)  
