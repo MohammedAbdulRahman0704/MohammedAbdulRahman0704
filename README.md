@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative AI projects, cloud automation tools, and impactful open-source software.
 - 📫 How to reach me: rahman.a7@outlook.com | [LinkedIn](https://www.linkedin.com/in/abdul-profile-url/) | [GitHub](https://github.com/MohammedAbdulRahman0704)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I’ve interned at Google, AWS, and Juniper—remotely solving real-world challenges from my desk in Hyderabad!
 
 <!---
 MohammedAbdulRahman0704/MohammedAbdulRahman0704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
