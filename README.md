@@ -1,105 +1,81 @@
-Sure! Here's a more **interactive and visually appealing** version of your GitHub `README.md` using emojis, markdown formatting, and **GitHub profile badges and stats** to make it pop:
+# Hi, I’m Mohammed Abdul Rahman 👋
+
+🎓 Final-year Information Technology student at Osmania University  
+🌍 Based in Hyderabad, India | He/Him  
+📧 Reach me: rahman.a7@outlook.com | [LinkedIn](https://www.linkedin.com/in/abdul-profile-url/) | [GitHub](https://github.com/MohammedAbdulRahman0704)
 
 ---
 
-### ✅ Interactive `README.md`
+## 👨‍💻 About Me
 
-```markdown
-<h1 align="center">Hi there, I'm Mohammed Abdul Rahman 👋</h1>
+I’m passionate about **Artificial Intelligence**, **Cloud Architecture**, and **Scalable Software Engineering**.  
+With hands-on internship experience at **Google, AWS, and Juniper Networks**, I’ve tackled real-world problems using cutting-edge technologies—from AI model tuning to cloud-native automation.
 
-<p align="center">
-  🎓 Final-year IT Student @ Osmania University &nbsp; | &nbsp; 📍 Hyderabad, India  
-  <br />
-  💬 Pronouns: He/Him &nbsp;|&nbsp; 💡 Fun Fact: Interned at Google, AWS, and Juniper — remotely from home!
-</p>
-
----
-
-## 🚀 About Me
-
-💻 I'm a passionate developer and AI enthusiast with experience from internships at:
-
-- **Google** – AI/ML intern: Improved model accuracy by 35%  
-- **AWS** – Cloud intern: Streamlined cloud adoption across 200+ teams  
-- **Juniper Networks** – Cloud networking intern: Boosted network automation efficiency by 40%
-
-⚙️ Currently exploring:
-- TensorFlow & Keras model tuning 🤖  
-- Cloud-native full-stack apps using Flask + AWS ☁️  
-- Portfolio design & front-end aesthetics with React 🎨
+Currently diving deeper into:
+- Advanced AI model tuning with **TensorFlow** & **Keras**
+- Scalable **cloud-native** application development using **Flask + AWS**
+- Building full-stack apps with **React**, **Flask**, and **REST APIs**
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Internship Highlights
 
-### 🔐 Advanced Anti-Captcha System (AI Honeypots)
-> Multimodal CAPTCHA with AI-based bot detection  
-✅ 90.2% accuracy | 🔐 75% reduction in bot breaches
+- **Google (AI/ML Intern)**  
+  📌 Improved ML model accuracy by **35%** through hyperparameter tuning and model evaluation  
+  🛠️ Tools: TensorFlow, Keras, Python  
 
-### 🧾 Plagiarism Detection System
-> TF-IDF & Cosine Similarity for efficient text comparison  
-✅ 85.6% detection accuracy | 📊 30% better performance
+- **AWS (Cloud Intern)**  
+  📌 Standardized cloud adoption practices with a case study used by **200+ teams**  
+  ☁️ Skills: AWS Architecture, DevOps, Documentation  
+
+- **Juniper Networks (Cloud Networking Intern)**  
+  📌 Automated network overlays with **Contrail**, increasing efficiency by **40%**
 
 ---
 
-## 🧠 Skills & Tools
+## 🚀 Featured Projects
 
-```plaintext
-Languages      : Python, Java, JavaScript
-Frameworks     : TensorFlow, Keras, Flask, React
-Concepts       : OOP, DSA, REST APIs, SDLC, Agile
-Tools & Cloud  : Pandas, NumPy, PowerBI, Git, AWS
-```
+### 🔐 Advanced Anti-Captcha System with AI Honeypots
+- Built a **multi-modal CAPTCHA** system for stronger bot detection  
+- Achieved **90.2% accuracy** and reduced bot breaches by **75%**
+
+### 📊 Plagiarism Detection System
+- Implemented **TF-IDF + Cosine Similarity** for efficient text comparison  
+- Boosted detection efficiency by **30%**, achieving **85.6% accuracy**
+
+---
+
+## 🧠 Core Competencies
+- **Programming:** Python, Java, JavaScript  
+- **Frameworks:** TensorFlow, Keras, Flask, React  
+- **Concepts:** OOP, Data Structures & Algorithms, SDLC, REST APIs  
+- **Tools:** Pandas, NumPy, PowerBI, Git  
+- **Cloud:** AWS, Cloud Automation, Deployment
 
 ---
 
 ## 🏆 Certifications
-
-- 🧠 Google AI & ML Internship  
-- ☁️ AWS Cloud Practitioner  
-- 📊 Microsoft Office Professional  
-- 🧬 NVIDIA AI for All
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:rahman.a7@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/MohammedAbdulRahman0704"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+- ✅ [Google AI & ML Internship Certificate](https://www.linkedin.com/posts/abdul-profile-url_ai-machinelearning-tensorflow-activity-7238435914429968384-YmuK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE9MuV4BC67XbqdcZL-CdLwxEMu145ISoRk)  
+- ✅ [AWS Academy Cloud Practitioner](https://www.linkedin.com/posts/abdul-profile-url_aws-cloudcomputing-virtualinternship-activity-7272859980582510593-mlEO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE9MuV4BC67XbqdcZL-CdLwxEMu145ISoRk)  
+- ✅ [Microsoft Office Specialist (ISO-Certified)](https://www.linkedin.com/posts/abdul-profile-url_msoffice-professionaldevelopment-continuouslearning-activity-7224811970263224321-lHHb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE9MuV4BC67XbqdcZL-CdLwxEMu145ISoRk)  
+- ✅ [NVIDIA - AI for All](https://www.linkedin.com/posts/abdul-profile-url_ai-machinelearning-generativeai-activity-7285687953958264832-FnZ8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE9MuV4BC67XbqdcZL-CdLwxEMu145ISoRk)
 
 ---
 
-## 🧩 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedAbdulRahman0704&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAbdulRahman0704&layout=compact&theme=radical" height="180" />
-</p>
+## 💡 Currently Working On
+- 🤖 Tuning deep learning models with **TensorFlow & Keras**  
+- ☁️ Building cloud-native apps using **Flask + AWS**  
+- 🌐 Designing a minimalist **portfolio website**
 
 ---
 
-## 🌱 Currently Learning
-
-- 🔧 Model optimization techniques in **TensorFlow**  
-- 🧩 Building robust REST APIs with **Flask**  
-- ☁️ Scalable deployment with **AWS Lambda & EC2**
-
----
-
-## 🤝 Let's Collaborate
-
-Looking for like-minded devs to build:
-- 🤖 AI/ML-powered applications  
-- ⚙️ Cloud automation tools  
-- 💡 Open-source contributions with real-world impact
+## 🎯 Let's Connect & Collaborate
+I’m looking to collaborate on:
+- 🔍 Real-world AI and ML projects  
+- ⚙️ Scalable cloud automation tools  
+- 💡 Impactful open-source contributions  
 
 ---
 
-```
+⭐ *Fun Fact:* I’ve interned at **Google, AWS, and Juniper Networks**—solving global-scale problems from my desk in Hyderabad!
 
----
-
-✅ Let me know if you'd like me to plug in your actual **LinkedIn URL** and **personal portfolio link** — I’ll update it for you right away!
