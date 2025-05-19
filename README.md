@@ -1,5 +1,21 @@
 # 💫 About Me:
-💼 I'm currently working on:<br><br>- Tuning deep learning models using TensorFlow & Keras<br><br>- Building scalable cloud-native apps with Flask + AWS<br><br>- Designing a minimalist, responsive portfolio website<br><br>🤝 I'm looking to collaborate on:<br><br>- Real-world AI and ML projects<br><br>- Scalable cloud automation tools<br><br>- Innovative open-source contributions<br><br>🆘 I'm looking for help with:<br><br>- Enhancing AI model performance for production-grade applications<br><br>- Optimizing cloud infrastructure for full-stack deployments<br><br>📚 I'm currently learning:<br><br>- Advanced model tuning and deployment with TensorFlow/Keras<br><br>- Full-stack app development using Flask and React<br><br>- Cloud-native architecture and DevOps best practices on AWS<br><br>❓ Ask me about:<br><br>- AI/ML model optimization<br><br>- Building cloud-native applications<br><br>- My internship experiences at Google, AWS, and Juniper Networks<br><br>🎉 Fun fact:<br>- I’ve interned at Google, AWS, and Juniper Networks—solving global-scale tech problems from my desk in Hyderabad!
+💼 I'm currently working on:
+Deep learning model tuning, cloud-native apps with Flask + AWS, and a portfolio website.
+
+🤝 I'm looking to collaborate on:
+AI/ML projects, cloud automation tools, and open-source contributions.
+
+🆘 I'm looking for help with:
+Optimizing AI models and deploying scalable full-stack apps.
+
+📚 I'm currently learning:
+Advanced TensorFlow, Flask + React stack, and AWS DevOps.
+
+❓ Ask me about:
+AI/ML, cloud apps, or my internships at Google, AWS & Juniper.
+
+🎉 Fun fact:
+I’ve solved global tech problems—all from my desk in Hyderabad!
 
 
 ## 🌐 Socials:
